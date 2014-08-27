@@ -36,8 +36,8 @@ The project must be linked to the <a href="http://glsdk.sourceforge.net">GLSDK</
 |tab		|		Change orientation of rotation
 |		|
 |0		|		Toggle hypercube centered at the origin
-|1 and 2	|		Toggle hypercubes offset in x
-|3 and 4	|		Toggle hypercubes offset in y
-|5 and 6	|		Toggle hypercubes offset in z
-|7 and 8	|		Toggle hypercubes offset in w
+|1/2		|		Toggle hypercubes offset in x
+|3/4		|		Toggle hypercubes offset in y
+|5/6		|		Toggle hypercubes offset in z
+|7/8		|		Toggle hypercubes offset in w
 
